@@ -1,14 +1,17 @@
 # python-30
 # Python Practice Programs
 
-Welcome to the repository of Python Practice Programs! This collection includes 30 Python scripts designed to help you improve your programming skills and understand various concepts in Python. Each program focuses on different topics and challenges, allowing you to practice and reinforce your knowledge.
 
+Welcome to the repository of Python Practice Programs! This collection includes 30 Python scripts designed to help you improve your programming skills and understand various concepts in Python. Each program focuses on different topics and challenges, allowing you to practice and reinforce your knowledge.
 
 
 ## Introduction
 
 Python is a versatile programming language that is widely used for a variety of applications. Whether you're new to programming or looking to sharpen your skills, these practice programs will help you gain hands-on experience with essential concepts, algorithms, and data structures.
 
+## Installation
+
+To run the programs, ensure that you have Python installed on your machine. You can download it from the official [Python website](https://www.python.org/downloads/).
 
 ### Prerequisites
 
@@ -20,39 +23,34 @@ Python is a versatile programming language that is widely used for a variety of 
 
 Here’s a list of files included in this repository along with a brief description of each:
 
-1. 1_hello_world.py - A simple program that prints "Hello, World!".
-2. 2_basic_calculator.py - A basic calculator that performs addition, subtraction, multiplication, and division.
-3. 3_palindrome_checker.py - Checks if a given word or phrase is a palindrome.
-4. 4_factorial.py - Computes the factorial of a given number using recursion.
-5. 5_fibonacci_sequence.py - Generates Fibonacci numbers up to a specified count.
-6. 6_prime_number.py - Checks if a number is prime.
-7. 7_sorted_array.py - Implements a sorting algorithm (Bubble Sort).
-8. 8_number_guessing_game.py - A guessing game where the user has to guess a randomly generated number.
-9. 9_file_io_example.py - Demonstrates reading from and writing to text files.
-10. 10_word_count.py - Counts the number of words in a given text file.
-11. 11_simple_gui_calculator.py - A simple GUI calculator using Tkinter.
-12. 12_random_password_generator.py - Generates a random secure password.
-13. 13_temperature_converter.py - Converts temperatures between Celsius and Fahrenheit.
-14. 14_list_operations.py - Demonstrates various list operations (append, remove, sort).
-15. 15_dice_roll_simulator.py - Simulates rolling a dice.
-16. 16_age_calculator.py - Calculates age based on the provided date of birth.
-17. 17_to_do_list.py - A simple command-line to-do list application.
-18. 18_quiz_app.py - A quiz application that tests your knowledge on various topics.
-19. 19_web_scraper.py - Scrapes and displays information from a given website.
-20. 20_email_validator.py - Validates the format of an email address.
-21. 21_anagram_checker.py - Checks if two strings are anagrams of each other.
-22. 22_currency_converter.py - Converts currencies based on a fixed exchange rate.
-23. 23_morse_code_translator.py - Translates text to Morse code and vice versa.
-24. 24_image_downloader.py - Downloads images from a given URL.
-25. 25_contact_book.py - A simple contact book that lets you add, view, and delete contacts.
-26. 26_weather_app.py - Fetches and displays the current weather for a specified city using an API.
-27. 27_rock_paper_scissors.py - A simple game of Rock, Paper, Scissors.
-28. 28_string_compression.py - Compresses a given string using basic algorithms.
-29. 29_calendar_generator.py - Generates a calendar for a specified month and year.
-30. 30_web_server.py - A basic web server that serves HTML content.
+1. binary_search.py - Implements binary search algorithm to find an element in a sorted list.
+2. body_mass_index.py - Calculates the Body Mass Index (BMI) based on weight and height.
+3. calendar.py - Displays a calendar for a specified month and year.
+4. check_PANDA_VERSION.py - Checks the version of the installed Pandas library.
+5. color_present_in_c1_but_not_in_c2.py - Identifies colors present in one list but not in another.
+6. current_date_time.py - Displays the current date and time.
+7. even_number_from_list.py - Extracts and returns all even numbers from a given list.
+8. find_vowel.py - Checks if a string contains any vowels.
+9. gcd.py - Computes the greatest common divisor (GCD) of two numbers.
+10. height_to_cm.py - Converts height from feet/inches to centimeters.
+11. lambda_add_multiply.py - Demonstrates the use of lambda functions for addition and multiplication.
+12. lcm.py - Calculates the least common multiple (LCM) of two numbers.
+13. linear_search.py - Implements linear search algorithm to find an element in a list.
+14. max_of_three.py - Finds the maximum of three given numbers.
+15. numbers_of_days_between.py - Calculates the number of days between two dates.
+16. numpy_arr_shape.py - Displays the shape of a NumPy array.
+17. numpy_permutation.py - Generates permutations of a given list using NumPy.
+18. numpy_reshape_arr_1D_to_3D.py - Reshapes a 1D NumPy array into a 3D array.
+19. pandas_series.py - Demonstrates the creation and manipulation of a Pandas Series.
+20. pandas_dataframe.py - Illustrates how to work with a Pandas DataFrame.
+21. push_in_stack.py - Implements a stack and allows pushing elements onto it.
+22. python_version.py - Displays the current version of Python.
+23. sort_files_by_date.py - Sorts files in a directory based on their creation or modification date.
+24. sum_of_all_num_of_list.py - Calculates the sum of all numbers in a given list.
+25. system_time.py - Displays the system time in HH:MM:SS format.
+26. time_to_second.py - Converts time in HH:MM:SS format to total seconds.
+27. tuple_sorting_lambda.py - Sorts a list of tuples using lambda functions.
+28. ufunc_products_numpy.py - Demonstrates the use of universal functions (ufuncs) in NumPy for multiplication.
+29. unfunc_log_numpy.py - Shows how to apply the logarithm function on a NumPy array using ufuncs.
+30. unfunc_panda_lcm.py - Utilizes Pandas functions to calculate the LCM of two numerical series.
 
-## How to Run
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/python-practice-programs.git
