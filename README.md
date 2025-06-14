@@ -53,4 +53,5 @@ Here’s a list of files included in this repository along with a brief descript
 28. ufunc_products_numpy.py - Demonstrates the use of universal functions (ufuncs) in NumPy for multiplication.
 29. unfunc_log_numpy.py - Shows how to apply the logarithm function on a NumPy array using ufuncs.
 30. unfunc_panda_lcm.py - Utilizes Pandas functions to calculate the LCM of two numerical series.
-
+#Tech Stack
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
