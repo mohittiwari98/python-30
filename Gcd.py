@@ -1,3 +1,4 @@
+#code for gcd 
 def gcd(x,y):
     gcd=1
     if x%y==0:
