@@ -1,3 +1,4 @@
+#numbers of day between 
 from dateline impport dateline
 f_date = date(20025,7,2)
 l_date = date(2015,7,6)
