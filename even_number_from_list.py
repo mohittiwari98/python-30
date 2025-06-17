@@ -1,3 +1,4 @@
+#find ecen number from list
 def is_even_number(l):
     enum =[]
     for n in l:
