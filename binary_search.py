@@ -3,7 +3,7 @@ def binarySearch(array,x,low,high):
     #using while loop
     while low<high:
         mid =low+(high-low)//2
-        #using condition 
+        #using conditional
         if x==array[mid]:
             return mid 
         elif x> array[mid]:
