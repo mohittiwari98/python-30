@@ -6,7 +6,7 @@ def linearsearch(array,n,x):
         if(array[i]==x):
             return i 
         return -1
-#given
+#given value
 array =[1,2,5,4,7,5]
 x=1
 n=len(array)
