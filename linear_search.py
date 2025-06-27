@@ -1,7 +1,7 @@
 #linear search
 #using function
 def linearsearch(array,n,x):
-    #used
+    #used for
     for i in range(0,n):
         if(array[i]==x):
             return i 
