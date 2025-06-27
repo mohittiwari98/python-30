@@ -1,7 +1,7 @@
 #code for gcd 
 def gcd(x,y):
     gcd=1
-    #used
+    #used condition
     if x%y==0:
         return y 
     for k in range(int(y/2),0,-1):
