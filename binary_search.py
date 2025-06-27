@@ -1,6 +1,6 @@
 #code for binary search 
 def binarySearch(array,x,low,high):
-    #using while
+    #using while loop
     while low<high:
         mid =low+(high-low)//2
         if x==array[mid]:
