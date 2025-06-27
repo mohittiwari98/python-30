@@ -1,4 +1,4 @@
 #check panda version
-#import
+#import pandas
 import panda as pd 
 print(pd.__version__)
