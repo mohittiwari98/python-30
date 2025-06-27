@@ -3,5 +3,5 @@ def is_vowel(char):
     #using function
     all_vowels ='aeiou'
     return char in all_vowels
-    #checking
+    #checking vowel
 print(is_vowel('c'))
