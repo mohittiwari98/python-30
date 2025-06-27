@@ -6,7 +6,7 @@ def lcm(x,y)::
     else:
         z=y 
     while(True):
-        #using 
+        #using while
         if((z % x ==0) and (z%y==0)):
             lcm=z
             break
