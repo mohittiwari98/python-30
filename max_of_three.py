@@ -1,5 +1,5 @@
 #find max of three 
-#first find max of 
+#first find max of two
 def max_of_two(x,y):
     if x>y:
         return x
