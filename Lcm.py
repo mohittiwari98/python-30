@@ -1,5 +1,5 @@
 #code for Lcm
-#using 
+#using function 
 def lcm(x,y)::
     if x>y:
         z=x
