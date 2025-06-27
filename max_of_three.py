@@ -2,7 +2,7 @@
 #first find max of two
 #using function with parameters
 def max_of_two(x,y):
-    #udimg
+    #usimg conditional statements 
     if x>y:
         return x
     return y 
