@@ -6,7 +6,7 @@ def gcd(x,y):
         return y 
         #used for loop
     for k in range(int(y/2),0,-1):
-        #
+        #u
         if x%k==0 and y%k==0:
             gcd =k
             break
@@ -14,6 +14,7 @@ def gcd(x,y):
      
 print(gcd(12,15))
 print(gcd(4,6))
+
 
 
 
