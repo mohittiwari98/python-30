@@ -10,8 +10,9 @@ def gcd(x,y):
             gcd =k
             break
         return gcd
-    /    
+     
 print(gcd(12,15))
 print(gcd(4,6))
+
 
 
