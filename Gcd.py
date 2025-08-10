@@ -1,7 +1,7 @@
 #code for gcd 
 def gcd(x,y):
     gcd=1
-    #used conditional statement
+    #used conditional statement 
     if x%y==0:
         return y 
         #used for loop
@@ -14,6 +14,7 @@ def gcd(x,y):
      
 print(gcd(12,15))
 print(gcd(4,6))
+
 
 
 
